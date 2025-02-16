@@ -1,1 +1,1 @@
-echo A Django-based library management system. >> README.md
+# LibraryProject - Django Setup
